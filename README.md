@@ -7,6 +7,7 @@ start: 04-01-2020
 |-----|---------------- | --------------- | ------------- |--------------|
 **136** | [**Single Number**](https://leetcode.com/problems/single-number/) | [:key:](https://github.com/minheekangg/kata-a-day/blob/master/leetcode/136-single-number.js) |Easy| |
 **222** | [**Happy Number**](https://leetcode.com/problems/happy-number/) | [:key:](https://github.com/minheekangg/kata-a-day/blob/master/leetcode/222-happy-number.js) |Easy| |
+**53** | [**Maximum Subarray**](https://leetcode.com/problems/maximum-subarray/) | [:key:](https://github.com/minheekangg/kata-a-day/blob/master/leetcode/53-max-subarray.js) |Easy| |
 
 #Udemy
 | Title           | Tag             | Date            |
