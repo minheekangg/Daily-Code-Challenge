@@ -9,6 +9,7 @@ start: 04-01-2020
 **222** | [**Happy Number**](https://leetcode.com/problems/happy-number/) | [:key:](https://github.com/minheekangg/kata-a-day/blob/master/leetcode/222-happy-number.js) |Easy| |
 **53** | [**Maximum Subarray**](https://leetcode.com/problems/maximum-subarray/) | [:key:](https://github.com/minheekangg/kata-a-day/blob/master/leetcode/53-max-subarray.js) |Easy| |
 **283** | [**Move Zeroes**](https://leetcode.com/problems/move-zeroes/) | [:key:](https://github.com/minheekangg/kata-a-day/blob/master/leetcode/283-move-zeroes.js) |Easy| |
+**122** | [**Best Time to Buy and Sell Stock II**](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/submissions/) | [:key:](https://github.com/minheekangg/kata-a-day/blob/master/leetcode/122-best-stock-profit.js) |Easy| |
 
 #Udemy
 | Title           | Tag             | Date            |
