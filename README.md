@@ -13,6 +13,7 @@ start: 04-01-2020
 **49** | [**Group Anagrams**](https://leetcode.com/problems/group-anagrams/) | [:key:](https://github.com/minheekangg/kata-a-day/blob/master/leetcode/49-group-anagrams.js) |Easy| |
 **876** | [**Middle Linked List**](https://leetcode.com/problems/middle-of-the-linked-list/) | [:key:](https://github.com/minheekangg/kata-a-day/blob/master/leetcode/876-middle-linked-list.js) |Easy| |
 **844** | [**Backspace String Compare**](https://leetcode.com/problems/backspace-string-compare/) | [:key:](https://github.com/minheekangg/kata-a-day/blob/master/leetcode/844-backspace-string-compare.js) |Easy| |
+**155** | [**Min Stack**](https://leetcode.com/problems/min-stack/) | [:key:](https://github.com/minheekangg/kata-a-day/blob/master/leetcode/155-min-stack.js) |Easy| |
 
 #Udemy
 | Title           | Tag             | Date            |
