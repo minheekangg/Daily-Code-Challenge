@@ -15,6 +15,7 @@ start: 04-01-2020
 **844** | [**Backspace String Compare**](https://leetcode.com/problems/backspace-string-compare/) | [:key:](https://github.com/minheekangg/kata-a-day/blob/master/leetcode/844-backspace-string-compare.js) |Easy| |
 **155** | [**Min Stack**](https://leetcode.com/problems/min-stack/) | [:key:](https://github.com/minheekangg/kata-a-day/blob/master/leetcode/155-min-stack.js) |Easy| |
 **x** | [**Performing String Shifts**](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/529/week-2/3299/) | [:key:](https://github.com/minheekangg/kata-a-day/blob/master/leetcode/performing-string-shifts.js) |Easy| |
+**678** | [**Valid Parenthesis String**](https://leetcode.com/problems/valid-parenthesis-string/) | [:key:](https://github.com/minheekangg/kata-a-day/blob/master/leetcode/678-valid-parenthesis-string.js) |Easy| |
 
 #Udemy
 | Title           | Tag             | Date            |
