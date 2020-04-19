@@ -16,6 +16,7 @@ start: 04-01-2020
 **155** | [**Min Stack**](https://leetcode.com/problems/min-stack/) | [:key:](https://github.com/minheekangg/kata-a-day/blob/master/leetcode/155-min-stack.js) |Easy| |
 **x** | [**Performing String Shifts**](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/529/week-2/3299/) | [:key:](https://github.com/minheekangg/kata-a-day/blob/master/leetcode/performing-string-shifts.js) |Easy| |
 **678** | [**Valid Parenthesis String**](https://leetcode.com/problems/valid-parenthesis-string/) | [:key:](https://github.com/minheekangg/kata-a-day/blob/master/leetcode/678-valid-parenthesis-string.js) |Easy| |
+**64** | [**Minimum Path Sum**](https://leetcode.com/problems/minimum-path-sum/) | [:key:](https://github.com/minheekangg/kata-a-day/blob/master/leetcode/64-minimum-path-sum.js) |Easy| |
 
 #Udemy
 | Title           | Tag             | Date            |
