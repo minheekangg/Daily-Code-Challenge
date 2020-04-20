@@ -17,6 +17,7 @@ start: 04-01-2020
 **x** | [**Performing String Shifts**](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/529/week-2/3299/) | [:key:](https://github.com/minheekangg/kata-a-day/blob/master/leetcode/performing-string-shifts.js) |Easy| |
 **678** | [**Valid Parenthesis String**](https://leetcode.com/problems/valid-parenthesis-string/) | [:key:](https://github.com/minheekangg/kata-a-day/blob/master/leetcode/678-valid-parenthesis-string.js) |Easy| |
 **64** | [**Minimum Path Sum**](https://leetcode.com/problems/minimum-path-sum/) | [:key:](https://github.com/minheekangg/kata-a-day/blob/master/leetcode/64-minimum-path-sum.js) |Easy| |
+**1008** | [**Minimum Path Sum**](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/) | [:key:](https://github.com/minheekangg/kata-a-day/blob/master/leetcode/1008-construct-bst-preorder.js) |Easy| |
 
 #Udemy
 | Title           | Tag             | Date            |
