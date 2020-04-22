@@ -18,6 +18,7 @@ start: 04-01-2020
 **678** | [**Valid Parenthesis String**](https://leetcode.com/problems/valid-parenthesis-string/) | [:key:](https://github.com/minheekangg/kata-a-day/blob/master/leetcode/678-valid-parenthesis-string.js) |Easy| |
 **64** | [**Minimum Path Sum**](https://leetcode.com/problems/minimum-path-sum/) | [:key:](https://github.com/minheekangg/kata-a-day/blob/master/leetcode/64-minimum-path-sum.js) |Easy| |
 **1008** | [**Minimum Path Sum**](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/) | [:key:](https://github.com/minheekangg/kata-a-day/blob/master/leetcode/1008-construct-bst-preorder.js) |Easy| |
+**560** | [**Subarray Sum Equals K**](https://leetcode.com/problems/subarray-sum-equals-k/) | [:key:](https://github.com/minheekangg/kata-a-day/blob/master/leetcode/560-subarray-sum-equals-k.js) |Easy| |
 
 #Udemy
 | Title           | Tag             | Date            |
