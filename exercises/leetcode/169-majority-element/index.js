@@ -1,9 +1,14 @@
-// 7/17/2019
+/**
+ * completed 7/17/2019
+ * Leetcode - EASY
+*/
 
 /**
  * @param {number[]} nums
  * @return {number}
  */
+
+//  MY SOLUTION
 var majorityElement = function (nums) {
     const hash = {};
     for (let num of nums) {
