@@ -2,6 +2,9 @@
 start: 04-01-2020
 
 #Leedcode
+To run test
+```jest exercises/##TITLE##/test.js --watch```
+
 
 |  #  | Title           |  Solution       | Difficulty    | Tag          |
 |-----|---------------- | --------------- | ------------- |--------------|
