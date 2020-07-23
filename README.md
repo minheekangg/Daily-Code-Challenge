@@ -1,10 +1,7 @@
 # kata-a-day
 start: 04-01-2020
 
-#Leedcode
-To run test
-```jest exercises/##TITLE##/test.js --watch```
-
+#Leetcode-No Tests
 
 |  #  | Title           |  Solution       | Difficulty    | Tag          |
 |-----|---------------- | --------------- | ------------- |--------------|
@@ -22,6 +19,21 @@ To run test
 **64** | [**Minimum Path Sum**](https://leetcode.com/problems/minimum-path-sum/) | [:key:](https://github.com/minheekangg/kata-a-day/blob/master/exercises/leetcode/64-minimum-path-sum.js) |Easy| |
 **1008** | [**Minimum Path Sum**](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/) | [:key:](https://github.com/minheekangg/kata-a-day/blob/master/exercises/leetcode/1008-construct-bst-preorder.js) |Easy| |
 **560** | [**Subarray Sum Equals K**](https://leetcode.com/problems/subarray-sum-equals-k/) | [:key:](https://github.com/minheekangg/kata-a-day/blob/master/exercises/leetcode/560-subarray-sum-equals-k.js) |Easy| |
+
+
+#Leetcode- With Tests
+#To run test for below
+```jest exercises/##TITLE##/test.js --watch```
+|  #  | Title           |  Solution       | Difficulty    | Tag          |
+|-----|---------------- | --------------- | ------------- |--------------|
+**13** | [**Roman to Integer**](https://leetcode.com/problems/roman-to-integer/) | [:key:](https://github.com/minheekangg/kata-a-day/blob/master/exercises/leetcode/13-roman-to-integer/index.js) |Easy| |
+**169** | [**Majority Element**](https://leetcode.com/problems/majority-element/) | [:key:](https://github.com/minheekangg/kata-a-day/blob/master/exercises/leetcode/169-majority-element/index.js) |Easy| |
+**169** | [**Majority Element**](https://leetcode.com/problems/majority-element/) | [:key:](https://github.com/minheekangg/kata-a-day/blob/master/exercises/leetcode/169-majority-element/index.js) |Easy| |
+**171** | [**Excel Column Number**](https://leetcode.com/problems/excel-sheet-column-number/) | [:key:](https://github.com/minheekangg/kata-a-day/blob/master/exercises/leetcode/171-excel-column-number/index.js) |Easy| |
+**169** | [**Majority Element**](https://leetcode.com/problems/majority-element/) | [:key:](https://github.com/minheekangg/kata-a-day/blob/master/exercises/leetcode/169-majority-element/index.js) |Easy| |
+**344** | [**Reverse String**](https://leetcode.com/problems/reverse-string/) | [:key:](https://github.com/minheekangg/kata-a-day/blob/master/exercises/leetcode/344-reverse-string/index.js) |Easy| |
+**387** | [**First Unique Character**](https://leetcode.com/problems/first-unique-character-in-a-string/) | [:key:](https://github.com/minheekangg/kata-a-day/blob/master/exercises/leetcode/387-first-uniq-char/index.js) |Easy| |
+
 
 #Udemy
 | Title           | Tag             | Date            |
