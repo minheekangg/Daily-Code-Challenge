@@ -33,6 +33,7 @@ start: 04-01-2020
 **169** | [**Majority Element**](https://leetcode.com/problems/majority-element/) | [:key:](https://github.com/minheekangg/kata-a-day/blob/master/exercises/leetcode/169-majority-element/index.js) |Easy| |
 **344** | [**Reverse String**](https://leetcode.com/problems/reverse-string/) | [:key:](https://github.com/minheekangg/kata-a-day/blob/master/exercises/leetcode/344-reverse-string/index.js) |Easy| |
 **387** | [**First Unique Character**](https://leetcode.com/problems/first-unique-character-in-a-string/) | [:key:](https://github.com/minheekangg/kata-a-day/blob/master/exercises/leetcode/387-first-uniq-char/index.js) |Easy| |
+**21** | [**Merge Two List**](https://leetcode.com/problems/merge-two-sorted-lists/) | [:key:](https://github.com/minheekangg/kata-a-day/blob/master/exercises/leetcode/21-merge-two-list/index.js) |Easy| |
 
 
 #Udemy
