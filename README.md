@@ -45,3 +45,4 @@ start: 04-01-2020
 | [**Max Subarray Sum**](https://github.com/minheekangg/kata-a-day/blob/master/exercises/udemy/max-subarray-sum.js) | Sliding Window | |
 | [**Reverse**](https://github.com/minheekangg/kata-a-day/blob/master/exercises/udemy/reverse.js) | Recursion | |
 | [**Same Frequency**](https://github.com/minheekangg/kata-a-day/blob/master/exercises/udemy/same-frequency.js) | Frequency Counter | |
+| [**From HIRED.com**](https://github.com/minheekangg/kata-a-day/blob/master/exercises/udemy/hired-BT-longer/index.js) | Binary Tree | |
