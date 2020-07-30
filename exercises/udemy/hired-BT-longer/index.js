@@ -37,9 +37,7 @@ const solution = (arr) => {
     let counter = 1;
 
     while (counter < arr.length) {
-        //     console.log('before left is', leftSum, 'right is', rightSum, 'current', arr[counter]);
         if (leftCount < depthCount) {
-            //       console.log('increasing left, current:', arr[counter], leftCount, depthCount)
             if (arr[counter] !== -1) leftSum += arr[counter];
             leftCount++;
             counter++;
@@ -54,7 +52,6 @@ const solution = (arr) => {
         }
     }
     if (leftSum === rightSum) return "";
-    //   console.log(leftSum, rightSum)
     return leftSum > rightSum ? "Left" : "Right";
 };
 
