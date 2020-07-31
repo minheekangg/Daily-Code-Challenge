@@ -51,7 +51,7 @@ const solution = (arr) => {
             rightCount = 0;
         }
     }
-    if (leftSum === rightSum) return "";
+    if (leftSum === rightSum) return "";  
     return leftSum > rightSum ? "Left" : "Right";
 };
 

@@ -1,5 +1,5 @@
 
-const solution = (n) => {
+const solution = (maze, ) => {
     let result = false;
     n.push(new Array(n.length).fill(9));
 
@@ -43,4 +43,3 @@ const solution = (n) => {
 module.exports = solution;
 
 
-// [[1, 0, 0, 1, 1], [1, 1, 0, 1, 1], [1, 0, 0, 1, 1], [1, 0, 1, 1, 0], [1, 0, 0, 0, 0]]
