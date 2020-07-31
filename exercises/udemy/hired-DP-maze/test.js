@@ -14,30 +14,42 @@ test('solution handles 2x2 square without a way out', () => {
 
 
 test('solution handles 2x2 square with a way out', () => {
-    expect(solution([1,0], [1,0])).toEqual(true);
+    expect(solution([[1,0], [1,0]])).toEqual(true);
 });
 
 
 
 const maze1 = [[1, 0, 0, 1, 1], [1, 1, 0, 1, 1], [1, 0, 0, 1, 1], [1, 0, 1, 1, 0], [1, 0, 0, 0, 0]];
-const test1 = {
-    startRow: 0,
-    startCol: 1,
-    destRow: 3,
-    destCol: 4
-}
-test('solution handles long input', () => {
-    expect(solution(maze1, test1[startRow], test1[startCol], test1[destRow], test1[destCol])).toEqual(true);
+test('solution handles 5x5 with a way out', () => {
+    expect(solution(maze1)).toEqual(true);
 });
 
 const maze2 = [[1, 0, 0, 1, 1], [1, 1, 0, 1, 1], [1, 0, 0, 1, 1], [1, 0, 1, 1, 0], [1, 0, 0, 0, 1]];
-const test2 = {
-    startRow: 0,
-    startCol: 1,
-    destRow: 3,
-    destCol: 4,
-}
 
-test('solution handles adding left + right brackets', () => {
-    expect(solution(maze2, test2[startRow], test2[startCol], test2[destRow], test2[destCol])).toEqual(false);
+test('solution handles 5x5 with no way out', () => {
+    expect(solution(maze2)).toEqual(false);
 });
+
+
+/**
+ * maze with start + end points
+ *
+    const maze1 = [[1, 0, 0, 1, 1], [1, 1, 0, 1, 1], [1, 0, 0, 1, 1], [1, 0, 1, 1, 0], [1, 0, 0, 0, 0]];
+    const test1 = {
+        startRow: 0,
+        startCol: 1,
+        destRow: 3,
+        destCol: 4
+    }
+    //TRUE
+
+    const maze2 = [[1, 0, 0, 1, 1], [1, 1, 0, 1, 1], [1, 0, 0, 1, 1], [1, 0, 1, 1, 0], [1, 0, 0, 0, 1]];
+    const test2 = {
+        startRow: 0,
+        startCol: 1,
+        destRow: 3,
+        destCol: 4,
+    }
+    //FALSE
+ * 
+ */

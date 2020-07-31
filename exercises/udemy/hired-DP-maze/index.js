@@ -1,43 +1,44 @@
 
-const solution = (maze, ) => {
-    let result = false;
-    n.push(new Array(n.length).fill(9));
+const solution = (maze) => {
+    if (maze.length < 1 ) {
+        return false;
+    }
+    const rowLength = maze.length;
+    const colLength = maze[0].length;
+    let answer = false;
 
-    function searchGrid(x, y, grid) {
-        console.log('x is', x, 'y is', y, 'grid', grid);
-        if (grid[x][y] === 0) {
-            grid[x][y] = 'X';
+    function checkSquare(x, y, maze) {
+        if (maze[x][y] === 0) {
+            maze[x][y] = 'X';
 
-            if (x < grid.length) {
-                searchGrid(x+1, y, grid);
+            if (x < rowLength-1) { // go right
+                checkSquare(x+1, y, maze);
             }
-            if (x > 0 && x < grid.length) {
-                searchGrid(x-1, y, grid);
+            if (x > 0 && x < rowLength-1) { //go left
+                checkSquare(x-1, y, maze);
             }
-            if (y < grid[x].length) {
-                searchGrid(x, y+1, grid);
+            if (y < colLength-1) { //go down
+                checkSquare(x, y+1, maze);
             }
-            if (y > 0 && y < grid.length) {
-                searchGrid(x, y-1, grid);
+            if (y > 0 && y < colLength-1) {
+                checkSquare(x, y-1, maze); //go up
             }
-        } else if (grid[x][y] === 9) {
-            if (x === grid.length && y === grid[0].length) {
-                console.log('made it!');
-                result = true;
+            if (x === rowLength-1 && y === colLength-1) {
+                answer = true;
+                return;
             }
-        } else  {
-            console.log('skip!')
+        } else {
             return;
         }
     }
-
-    for (let row=0; row < n.length; row++ ) {
-        for (let col=0; col < n[0].length; col++) {
-            searchGrid(row, col, [...n]);
+    
+    for (let i=0; i < maze.length; i++) {
+        for (let j=0; j < maze[0].length; j++) {
+            const copyMaze = [...maze];
+            checkSquare(i, j, copyMaze)
         }
     }
-
-    return result;
+    return answer;
 };
 
 module.exports = solution;
