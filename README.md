@@ -1,4 +1,4 @@
-# kata-a-day
+# Daily Code Challenge
 start: 04-01-2020
 
 #Leetcode-No Tests
