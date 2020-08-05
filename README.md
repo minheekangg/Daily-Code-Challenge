@@ -35,6 +35,7 @@ start: 04-01-2020
 **387** | [**First Unique Character**](https://leetcode.com/problems/first-unique-character-in-a-string/) | [:key:](https://github.com/minheekangg/kata-a-day/blob/master/exercises/leetcode/387-first-uniq-char/index.js) |Easy| |
 **21** | [**Merge Two List**](https://leetcode.com/problems/merge-two-sorted-lists/) | [:key:](https://github.com/minheekangg/kata-a-day/blob/master/exercises/leetcode/21-merge-two-list/index.js) |Easy| |
 **118** | [**Pascals Triangle**](https://leetcode.com/problems/pascals-triangle/) | [:key:](https://github.com/minheekangg/kata-a-day/blob/master/exercises/leetcode/118-pascal-triangle/index.js) |Easy| |
+**1268** | [**Search Suggestion System**](https://leetcode.com/problems/search-suggestions-system/) | [:key:](https://github.com/minheekangg/kata-a-day/blob/master/exercises/leetcode/1268-search-suggestion-system/index.js) |Easy| |
 
 
 #Udemy
