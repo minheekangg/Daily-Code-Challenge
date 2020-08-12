@@ -1,5 +1,5 @@
 /**
- * completed 8/12/2020
+ * completed 8/10/2019
  * Leetcode - similar to MEDIUM
  Given a binary search tree (BST), find the lowest common ancestor (LCA) of two given nodes in the BST.
 
@@ -13,6 +13,7 @@ Explanation: The LCA of nodes 2 and 8 is 6.
 
 // better solution - BFS
 var lowestCommonAncestor = function (root, p, q) {
+    console.log(root.val)
     if (root.val < p && root.val < q) {
         // root is smaller than both -- go right!
         return lowestCommonAncestor(root.right, p, q)
