@@ -3,7 +3,7 @@ start: 04-01-2020
 
 #Leetcode-No Tests
 
-|  #  | Title           |  Solution       | Difficulty    | Tag          |
+|  #  | Title           |  Solution       | Difficulty    | Date         |
 |-----|---------------- | --------------- | ------------- |--------------|
 **136** | [**Single Number**](https://leetcode.com/problems/single-number/) | [:key:](https://github.com/minheekangg/kata-a-day/blob/master/exercises/leetcode/136-single-number.js) |Easy| |
 **222** | [**Happy Number**](https://leetcode.com/problems/happy-number/) | [:key:](https://github.com/minheekangg/kata-a-day/blob/master/exercises/leetcode/222-happy-number.js) |Easy| |
@@ -17,8 +17,8 @@ start: 04-01-2020
 **x** | [**Performing String Shifts**](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/529/week-2/3299/) | [:key:](https://github.com/minheekangg/kata-a-day/blob/master/exercises/leetcode/performing-string-shifts.js) |Easy| |
 **678** | [**Valid Parenthesis String**](https://leetcode.com/problems/valid-parenthesis-string/) | [:key:](https://github.com/minheekangg/kata-a-day/blob/master/exercises/leetcode/678-valid-parenthesis-string.js) |Easy| |
 **64** | [**Minimum Path Sum**](https://leetcode.com/problems/minimum-path-sum/) | [:key:](https://github.com/minheekangg/kata-a-day/blob/master/exercises/leetcode/64-minimum-path-sum.js) |Easy| |
-**1008** | [**Minimum Path Sum**](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/) | [:key:](https://github.com/minheekangg/kata-a-day/blob/master/exercises/leetcode/1008-construct-bst-preorder.js) |Easy| |
-**560** | [**Subarray Sum Equals K**](https://leetcode.com/problems/subarray-sum-equals-k/) | [:key:](https://github.com/minheekangg/kata-a-day/blob/master/exercises/leetcode/560-subarray-sum-equals-k.js) |Easy| |
+**1008** | [**Minimum Path Sum**](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/) | [:key:](https://github.com/minheekangg/kata-a-day/blob/master/exercises/leetcode/1008-construct-bst-preorder.js) |Easy| 08/24/2020 |
+**560** | [**Subarray Sum Equals K**](https://leetcode.com/problems/subarray-sum-equals-k/) | [:key:](https://github.com/minheekangg/kata-a-day/blob/master/exercises/leetcode/560-subarray-sum-equals-k.js) |Easy| 08/25/2020 |
 
 
 #Leetcode- With Tests
