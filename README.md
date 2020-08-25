@@ -40,6 +40,7 @@ start: 04-01-2020
 **4** | [**Median of Two Sorted Arrays**](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [:key:](https://github.com/minheekangg/kata-a-day/blob/master/exercises/leetcode/4-medium-sorted-arr/index.js) |Easy| |
 **3** | [**Longest Substring Without Repeating Char**](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [:key:](https://github.com/minheekangg/kata-a-day/blob/master/exercises/leetcode/3-longest-substring/index.js) |Easy| |
 **50** | [**Power(x,n)**](https://leetcode.com/problems/powx-n) | [:key:](https://github.com/minheekangg/kata-a-day/blob/master/exercises/leetcode/50-power-xn/index.js) |Medium| |
+**260** | [**Reverse Linked List**](https://leetcode.com/problems/reverse-linked-list/) | [:key:](https://github.com/minheekangg/kata-a-day/blob/master/exercises/leetcode/206-reverse-linked-list/index.js) |Easy| |
 
 
 #Udemy
