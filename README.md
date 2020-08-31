@@ -43,6 +43,7 @@ start: 04-01-2020
 **260** | [**Reverse Linked List**](https://leetcode.com/problems/reverse-linked-list/) | [:key:](https://github.com/minheekangg/kata-a-day/blob/master/exercises/leetcode/206-reverse-linked-list/index.js) |Easy| 08/25/2020 |
 **268** | [**Missing Number**](https://leetcode.com/problems/missing-number/) | [:key:](https://github.com/minheekangg/kata-a-day/blob/master/exercises/leetcode/268-missing-number/index.js) |Easy| 08/31/2020 |
 **121** | [**Max Profit**](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [:key:](https://github.com/minheekangg/kata-a-day/blob/master/exercises/leetcode/121-max-profit/index.js) |Easy| 08/31/2020 |
+**94** | [**BT Inorder Traversal**](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [:key:](https://github.com/minheekangg/kata-a-day/blob/master/exercises/leetcode/94-bt-inorder-traversal/index.js) |Medium| 08/31/2020 |
 
 
 #Udemy
