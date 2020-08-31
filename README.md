@@ -41,7 +41,8 @@ start: 04-01-2020
 **3** | [**Longest Substring Without Repeating Char**](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [:key:](https://github.com/minheekangg/kata-a-day/blob/master/exercises/leetcode/3-longest-substring/index.js) |Easy| |
 **50** | [**Power(x,n)**](https://leetcode.com/problems/powx-n) | [:key:](https://github.com/minheekangg/kata-a-day/blob/master/exercises/leetcode/50-power-xn/index.js) |Medium| 08/24/2020 |
 **260** | [**Reverse Linked List**](https://leetcode.com/problems/reverse-linked-list/) | [:key:](https://github.com/minheekangg/kata-a-day/blob/master/exercises/leetcode/206-reverse-linked-list/index.js) |Easy| 08/25/2020 |
-**268** | [**Missing Number**](https://leetcode.com/problems/missing-number/) | [:key:](https://github.com/minheekangg/kata-a-day/blob/master/exercises/leetcode/268-missing-number/index.js) |Easy| 08/25/2020 |
+**268** | [**Missing Number**](https://leetcode.com/problems/missing-number/) | [:key:](https://github.com/minheekangg/kata-a-day/blob/master/exercises/leetcode/268-missing-number/index.js) |Easy| 08/31/2020 |
+**121** | [**Max Profit**](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [:key:](https://github.com/minheekangg/kata-a-day/blob/master/exercises/leetcode/121-max-profit/index.js) |Easy| 08/31/2020 |
 
 
 #Udemy
