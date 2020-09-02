@@ -45,6 +45,7 @@ start: 04-01-2020
 **121** | [**Max Profit**](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [:key:](https://github.com/minheekangg/kata-a-day/blob/master/exercises/leetcode/121-max-profit/index.js) |Easy| 08/31/2020 |
 **94** | [**BT Inorder Traversal**](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [:key:](https://github.com/minheekangg/kata-a-day/blob/master/exercises/leetcode/94-bt-inorder-traversal/index.js) |Medium| 08/31/2020 |
 **70** | [**Climbing Stairs**](https://leetcode.com/problems/climbing-stairs/) | [:key:](https://github.com/minheekangg/kata-a-day/blob/master/exercises/leetcode/70-climbing-stairs/index.js) |Easy| 09/01/2020 |
+**101** | [**Symmetric Tree**](https://leetcode.com/problems/symmetric-tree/) | [:key:](https://github.com/minheekangg/kata-a-day/blob/master/exercises/leetcode/101-symmetric-tree/index.js) |Easy| 09/01/2020 |
 
 
 #Udemy
