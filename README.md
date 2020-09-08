@@ -46,6 +46,7 @@ start: 04-01-2020
 **94** | [**BT Inorder Traversal**](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [:key:](https://github.com/minheekangg/kata-a-day/blob/master/exercises/leetcode/94-bt-inorder-traversal/index.js) |Medium| 08/31/2020 |
 **70** | [**Climbing Stairs**](https://leetcode.com/problems/climbing-stairs/) | [:key:](https://github.com/minheekangg/kata-a-day/blob/master/exercises/leetcode/70-climbing-stairs/index.js) |Easy| 09/01/2020 |
 **101** | [**Symmetric Tree**](https://leetcode.com/problems/symmetric-tree/) | [:key:](https://github.com/minheekangg/kata-a-day/blob/master/exercises/leetcode/101-symmetric-tree/index.js) |Easy| 09/01/2020 |
+**26** | [**Remove Duplicates From Sorted Array**](hhttps://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [:key:](https://github.com/minheekangg/kata-a-day/blob/master/exercises/leetcode/26-remove-sorted-arr/index.js) |Easy| 09/08/2020 |
 
 
 #Udemy
