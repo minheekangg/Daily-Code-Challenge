@@ -1,8 +1,19 @@
 # Daily Code Challenge
 start: 04-01-2020
 
-#Leetcode-No Tests
 
+#Udemy
+| Title           | Tag             | Date            |
+|---------------- | --------------- | --------------- |
+| [**Are There Duplicates**](https://github.com/minheekangg/kata-a-day/blob/master/exercises/udemy/are-there-duplicates.js) | Frequency Counter, Multiple Pointers | |
+| [**Average Pair**](https://github.com/minheekangg/kata-a-day/blob/master/exercises/udemy/average-pair.js) | Multiple Pointers | |
+| [**Is Subsequence**](https://github.com/minheekangg/kata-a-day/blob/master/exercises/udemy/is-subsequence.js) | Multiple Pointers | |
+| [**Max Subarray Sum**](https://github.com/minheekangg/kata-a-day/blob/master/exercises/udemy/max-subarray-sum.js) | Sliding Window | |
+| [**Reverse**](https://github.com/minheekangg/kata-a-day/blob/master/exercises/udemy/reverse.js) | Recursion | |
+| [**Same Frequency**](https://github.com/minheekangg/kata-a-day/blob/master/exercises/udemy/same-frequency.js) | Frequency Counter | |
+| [**From HIRED.com**](https://github.com/minheekangg/kata-a-day/blob/master/exercises/udemy/hired-BT-longer/index.js) | Binary Tree | |
+
+#Leetcode-No Tests
 |  #  | Title           |  Solution       | Difficulty    | Date         |
 |-----|---------------- | --------------- | ------------- |--------------|
 **136** | [**Single Number**](https://leetcode.com/problems/single-number/) | [:key:](https://github.com/minheekangg/kata-a-day/blob/master/exercises/leetcode/136-single-number.js) |Easy| |
@@ -50,18 +61,9 @@ start: 04-01-2020
 **38** | [**Count and Say**](https://leetcode.com/problems/count-and-say/) | [:key:](https://github.com/minheekangg/kata-a-day/blob/master/exercises/leetcode/38-count-and-say/index.js) |Easy| 09/09/2020 |
 
 
-#Udemy
-| Title           | Tag             | Date            |
-|---------------- | --------------- | --------------- |
-| [**Are There Duplicates**](https://github.com/minheekangg/kata-a-day/blob/master/exercises/udemy/are-there-duplicates.js) | Frequency Counter, Multiple Pointers | |
-| [**Average Pair**](https://github.com/minheekangg/kata-a-day/blob/master/exercises/udemy/average-pair.js) | Multiple Pointers | |
-| [**Is Subsequence**](https://github.com/minheekangg/kata-a-day/blob/master/exercises/udemy/is-subsequence.js) | Multiple Pointers | |
-| [**Max Subarray Sum**](https://github.com/minheekangg/kata-a-day/blob/master/exercises/udemy/max-subarray-sum.js) | Sliding Window | |
-| [**Reverse**](https://github.com/minheekangg/kata-a-day/blob/master/exercises/udemy/reverse.js) | Recursion | |
-| [**Same Frequency**](https://github.com/minheekangg/kata-a-day/blob/master/exercises/udemy/same-frequency.js) | Frequency Counter | |
-| [**From HIRED.com**](https://github.com/minheekangg/kata-a-day/blob/master/exercises/udemy/hired-BT-longer/index.js) | Binary Tree | |
-
 #Interview Cake w test
+#To run test for below
+```jest exercises/##TITLE##/test.js --watch```
 | Title           | Tag             | Date            |
 |---------------- | --------------- | --------------- |
 | [**Contains Cycle**](https://github.com/minheekangg/kata-a-day/blob/master/exercises/interview-cake/conatins-cycle/index.js) | Singly Linked List | 07/24/2020 |
