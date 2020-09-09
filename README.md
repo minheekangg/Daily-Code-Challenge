@@ -60,3 +60,9 @@ start: 04-01-2020
 | [**Reverse**](https://github.com/minheekangg/kata-a-day/blob/master/exercises/udemy/reverse.js) | Recursion | |
 | [**Same Frequency**](https://github.com/minheekangg/kata-a-day/blob/master/exercises/udemy/same-frequency.js) | Frequency Counter | |
 | [**From HIRED.com**](https://github.com/minheekangg/kata-a-day/blob/master/exercises/udemy/hired-BT-longer/index.js) | Binary Tree | |
+
+#Interview Cake w test
+| Title           | Tag             | Date            |
+|---------------- | --------------- | --------------- |
+| [**Contains Cycle**](https://github.com/minheekangg/kata-a-day/blob/master/exercises/interview-cake/conatins-cycle/index.js) | Singly Linked List | 07/24/2020 |
+| [**Apple Stock**](https://github.com/minheekangg/kata-a-day/blob/master/exercises/interview-cake/apple-stock/index.js) | Greedy Algo | 09/09/2020 |
