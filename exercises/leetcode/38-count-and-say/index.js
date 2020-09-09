@@ -45,30 +45,21 @@ var countAndSay = function (n, seq = ["1"]) { //memoize sequence arrays
 };
 
 var toSay = function (s) {
-    let result = "";
-    const arr = s.split("");
-    // conver string input to array for easy shift
-    let counter = [arr.shift()];
-    // init counter with the first letter 
-
-    while (arr.length > 0) {
-        const popped = arr.shift();
-        // pop the first remaining letter from arr;
-        if (popped === counter[0]) {
-            // if popped is equal to the last accounted letter add popped to counter
-            // at this point all letters are the same inside counter [1,1,1]
-            counter.unshift(popped);
+    let result = ""; tmp = 1;
+    //init result to blank string + counter to 1;
+    for (var j = 0; j < s.length; j++) {
+        if (s[j] !== s[j + 1] || j == s.length - 1) {
+            // if next letter is not equal to current letter or we're at the end;
+            result += tmp + s[j];
+            // add counter and letter to result;
+            tmp = 1;
+            //result counter to 1;
         } else {
-            // if popped is *different* from last accounted letter
-            // add count of letter + letter to result;
-            result += (counter.length + counter[0]);
-            // sanitize counter with popped letter to ensure all will be same.
-            counter = [popped];
+            // else if next letter is equal to current letter increase counter;
+            tmp += 1;
         }
     }
 
-    // dont forget to add the remaining counter at the end of arr.length
-    result += (counter.length + counter[0]);
     // expect result to be stringified conversion of the counts (eg 1211 input --> 111221 output)
     return result;
 }
