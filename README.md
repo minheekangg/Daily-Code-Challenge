@@ -60,6 +60,7 @@ start: 04-01-2020
 **26** | [**Remove Duplicates From Sorted Array**](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [:key:](https://github.com/minheekangg/kata-a-day/blob/master/exercises/leetcode/26-remove-sorted-arr/index.js) |Easy| 09/08/2020 |
 **38** | [**Count and Say**](https://leetcode.com/problems/count-and-say/) | [:key:](https://github.com/minheekangg/kata-a-day/blob/master/exercises/leetcode/38-count-and-say/index.js) |Easy| 09/09/2020 |
 **66** | [**Plus One**](https://leetcode.com/problems/plus-one/) | [:key:](https://github.com/minheekangg/kata-a-day/blob/master/exercises/leetcode/66-plus-one/index.js) |Easy| 09/10/2020 |
+**198** | [**House Robber**](https://leetcode.com/problems/house-robber/) | [:key:](https://github.com/minheekangg/kata-a-day/blob/master/exercises/leetcode/198-house-robber/index.js) |Easy| 09/11/2020 |
 
 
 #Interview Cake w test
