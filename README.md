@@ -71,3 +71,4 @@ start: 04-01-2020
 |---------------- | --------------- | --------------- |
 | [**Contains Cycle**](https://github.com/minheekangg/kata-a-day/blob/master/exercises/interview-cake/conatins-cycle/index.js) | Singly Linked List | 07/24/2020 |
 | [**Apple Stock**](https://github.com/minheekangg/kata-a-day/blob/master/exercises/interview-cake/apple-stock/index.js) | Greedy Algo | 09/09/2020 |
+| [**Highest Three Prod**](https://github.com/minheekangg/kata-a-day/blob/master/exercises/interview-cake/highest-three-prod/index.js) | Greedy Algo | 09/16/2020 |
