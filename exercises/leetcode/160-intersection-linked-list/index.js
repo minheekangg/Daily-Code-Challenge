@@ -27,6 +27,22 @@ Input Explanation: The intersected node's value is 8 (note that this must not be
 //     return null;
 // };
 
+
+
+/*
+324 + 191324
+3-2-4-1-9-1-3-2-4
+1-9-1-3-2-4-3-2-4
+
+4324 + 191324
+4-3-2-4-1-9-1-3-2-4
+1-9-1-3-2-4-4-3-2-4
+
+41845 + 99999845
+4-1-8-4-5-9-9-9-9-9-8-4-5
+9-9-9-9-9-8-4-5-4-1-8-4-5
+*/
+
 // Better Solution: 
 var getIntersectionNode = function (headA, headB) {
     let currA = headA;
