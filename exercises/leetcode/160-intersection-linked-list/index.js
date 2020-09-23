@@ -14,17 +14,28 @@ Input Explanation: The intersected node's value is 8 (note that this must not be
  */
 
 // My Solution:
+// var getIntersectionNode = function (headA, headB) {
+//     while (headA) {
+//         let currentHeadB = headB;
+//         while (currentHeadB) {
+//             if (headA === currentHeadB) return headA;
+//             else currentHeadB = currentHeadB.next;
+//         }
+//         headA = headA.next;
+//         currentHeadB = headB;
+//     }
+//     return null;
+// };
+
+// Better Solution: 
 var getIntersectionNode = function (headA, headB) {
-    while (headA) {
-        let currentHeadB = headB;
-        while (currentHeadB) {
-            if (headA === currentHeadB) return headA;
-            else currentHeadB = currentHeadB.next;
-        }
-        headA = headA.next;
-        currentHeadB = headB;
+    let currA = headA;
+    let currB = headB;
+    while (currA !== currB) {
+        currA = currA === null ? headB : currA.next;
+        currB = currB === null ? headA : currB.next;
     }
-    return null;
+    return currA;
 };
 
 module.exports = getIntersectionNode;
