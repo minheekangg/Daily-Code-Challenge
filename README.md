@@ -62,7 +62,8 @@ start: 04-01-2020
 **66** | [**Plus One**](https://leetcode.com/problems/plus-one/) | [:key:](https://github.com/minheekangg/kata-a-day/blob/master/exercises/leetcode/66-plus-one/index.js) |Easy| 09/10/2020 |
 **198** | [**House Robber**](https://leetcode.com/problems/house-robber/) | [:key:](https://github.com/minheekangg/kata-a-day/blob/master/exercises/leetcode/198-house-robber/index.js) |Easy| 09/11/2020 |
 **141** | [**Linked List Cycle**](https://leetcode.com/problems/linked-list-cycle/) | [:key:](https://github.com/minheekangg/kata-a-day/blob/master/exercises/leetcode/141-linked-list-cycle/index.js) |Easy| 09/14/2020 |
-**160** | [**Linked List Cycle**](https://leetcode.com/problems/intersection-of-two-linked-lists/) | [:key:](https://github.com/minheekangg/kata-a-day/blob/master/exercises/leetcode/160-intersection-linked-list/index.js) |Easy| 09/23/2020 |
+**160** | [**Intersection of Two Linked List**](https://leetcode.com/problems/intersection-of-two-linked-lists/) | [:key:](https://github.com/minheekangg/kata-a-day/blob/master/exercises/leetcode/160-intersection-linked-list/index.js) |Easy| 09/23/2020 |
+**234** | [**Palindrome Linked List**](https://leetcode.com/problems/palindrome-linked-list/) | [:key:](https://github.com/minheekangg/kata-a-day/blob/master/exercises/leetcode/234-palindrome-linked-list/index.js) |Easy| 10/19/2020 |
 
 
 #Interview Cake w test
