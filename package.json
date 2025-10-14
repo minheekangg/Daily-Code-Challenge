@@ -4,7 +4,7 @@
   "description": "start: 04-01-2020",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/minheekangg/kata-a-day#readme",
   "dependencies": {
-    "jest": "^26.1.0"
+    "jest": "^26.6.3"
   }
 }
